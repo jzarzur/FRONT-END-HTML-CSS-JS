@@ -1,4 +1,4 @@
-// Used to filter data/ Usado filtrar e relacionar dados.
+// Used to filter and relate data/ Usado para filtrar e relacionar dados.
 // L.A WEBSITE: https://www.portfoliodolucas.com/
 
 import wixData from 'wix-data';
